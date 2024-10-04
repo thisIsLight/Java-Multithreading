@@ -1,0 +1,25 @@
+We will be reading about Java multithreading and implementing everything once in this repository.
+
+Things to be implemented : 
+
+1)  Create threads using Thread class and Runnable interface 
+2)  Using thread methods - start, run, sleep, join, yield, interrupt
+3)  Using Thread Priority
+4)  Creating Race condition on shared resources
+5)  Making a code thread safe - Resolve race condition. 
+6)  Using Synchronized for Singleton design pattern
+7)  Explicit Locking -- ReentrantLock - lock, unlock, Conditions(await() and Signal)
+8)  Using Wait, notify and notifyAll
+9)  Executor Interface - Types of executorService - submit, shutdown, invokeAll, invokeAny
+10) Using Callable anf Futures
+11) Future and FutureTasks
+12) Project 1 : File Search Utility
+13) Project 2 : Multithreaded Web Crawler
+14) Project 3 : Implement Kafka
+15) Project 4 : Chat Server with Multiple Clients
+16) Project 5 : Multithreaded Game Engine
+17) Project 6 : Stock Market Simulator
+18) Project 7 : Multithreaded Bank System
+19) Project 8 : Parallel Matrix Multiplication
+20) Project 9 : Real-time Task Scheduler
+21) Project 10 : Traffic Simulation System
